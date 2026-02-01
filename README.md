@@ -1,5 +1,3 @@
-# python-port-scanner
-A custom multi-threaded port scanner built with Python to identify open TCP ports and active services.
 # Simple Python Port Scanner
 A multi-threaded port scanner developed in Python to identify open ports and services on a target host.
 
